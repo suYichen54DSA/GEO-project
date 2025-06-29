@@ -44,6 +44,3 @@ This module extracts **ridge lines** from topographic or vegetation data (e.g., 
 This repository is under continuous development and will be updated regularly.
 
 ---
-
-## 📁 Directory Snapshot
-
