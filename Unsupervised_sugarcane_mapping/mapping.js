@@ -1,7 +1,7 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////////
 
-              This code is written in JavaScript and can be run in gee. Its link is 
-              https://code.earthengine.google.com/5466700ba73840f15876cbd5f3f41504
+//////           This code is written in JavaScript and can be run in gee. Its link is         //////
+//////           https://code.earthengine.google.com/5466700ba73840f15876cbd5f3f41504          //////
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////
 
