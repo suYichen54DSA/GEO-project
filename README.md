@@ -1,4 +1,4 @@
-# 🌱 FANTASTIC: Remote Sensing Intelligence Toolkit  
+# 🌱 Remote Sensing Intelligence Toolkit  
 *A growing collection of practical remote sensing scripts*  
 *持续更新的遥感智能脚本合集*
 
